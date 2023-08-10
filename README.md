@@ -1,5 +1,4 @@
-# study-guide
-# Bootcamp Project #1
+# Bootcamp Study Guide
 
 ## Description
 
